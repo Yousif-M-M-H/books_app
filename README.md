@@ -23,8 +23,7 @@ A new Flutter project showcasing various screens and functionalities.
     </td>
     <td>
       <b>Book Launcher</b><br>
-          <img src="https://github.com/Yousif-M-M-H/books_app/assets/63748976/92f7bb69-58d5-4785-83ac-ef19c9822818" width="300" height="500">
-
+          <img src="https://github.com/Yousif-M-M-H/books_app/assets/63748976/995321aa-7405-43b4-a02b-e4f4ad906d59" width="300" height="500">
     </td>
   </tr>
 </table>
